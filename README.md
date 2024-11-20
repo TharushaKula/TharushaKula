@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **tharusha22589@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12iBf5N8En7WOI9paL7su4q5ymVi3m-nC/view?usp=sharing](https://drive.google.com/file/d/12iBf5N8En7WOI9paL7su4q5ymVi3m-nC/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tharushakulasinghe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tharushakulasinghe/" height="30" width="40" /></a>
